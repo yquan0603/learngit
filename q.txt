@@ -1,0 +1,5 @@
+1、ssh被拒绝
+2、url用网页登陆进入不成功（用code成功一次）
+3、用ssh创建了origin2怎么删除
+4、github新建的rep，clone后在learngit子文件夹中——这个应该是合理的，后续再思考一下。
+5、ahead of origin/master by 1commit以及nofarward问题，继续学习
