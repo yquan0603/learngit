@@ -8,4 +8,4 @@ Creating a new branch is quick AND simple.
 
 测试：增加一行
 this is master
-this is df 
+this is df and is new master
